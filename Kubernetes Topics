@@ -1,0 +1,18 @@
+Important features to keep in mind:
+1.core container
+2.Kubernetes POD
+3.Deployment  -In Yaml
+4.Service-In Yaml
+5.ConfigMap-In Yaml
+6.Secret -In Yaml
+7.Internal/External Service
+8.K8 Cluster - Collection of worker nodes
+9.Worker Node
+10.Master Node
+11.API Server
+12.Scheduler
+13.Control Manager
+14.etcd - a key value of master and worker node - cluster brain
+15.Kubelet - Core Worker process
+16.MiniKube - Master Processes and worker processes in VM called a single node.
+17.Kubectl - CLI
